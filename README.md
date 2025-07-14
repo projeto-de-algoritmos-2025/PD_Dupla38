@@ -29,8 +29,8 @@ A seguir, a tabela com as questões a serem resolvidas e suas respectivas inform
 
 | Questão | Responsável pela resolução | Link da questão | Tema do problema | Nível de dificuldade |
 |--------|---------------------------|----------------|------------------------|----------------------|
-|Questão 1| Suzane Duarte | link | Nome | Médio |
-|Questão 2| Suzane Duarte | link | Nome | Difícil |
+|Questão 1| Suzane Duarte | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/) | Knapsack | Difícil |
+|Questão 2| Suzane Duarte | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | Sequence Alignment  | Difícil |
 |Questão 3| Luana Torres | https://leetcode.com/problems/ones-and-zeroes/ | Ones and Zeroesy | Médio |
 |Questão 4| Luana Torres |https://leetcode.com/problems/maximum-profit-in-job-scheduling/ | Maximum Profit in Job Scheduling | Díficil |
 
