@@ -50,19 +50,19 @@ A seguir, são apresentados screenshots das questões resolvidas:
 
 Descrição da Questão 1:
 
-![Questão 1]() 
+![](assets/questao1.png)
 
 Resolução da Questão 1: 
 
-![Questão 1]() 
+![](assets/ProfitableSchemes.png)
 
 Questão 2:
 
-![Questão 2]() 
+![](assets/questao2.png)
 
 Resolução da Questão 2: 
 
-![Questão 2]() 
+![](assets/DistinctSubsequences.png)
 
 Descrição da Questão 3:
 
