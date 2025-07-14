@@ -31,8 +31,8 @@ A seguir, a tabela com as questões a serem resolvidas e suas respectivas inform
 |--------|---------------------------|----------------|------------------------|----------------------|
 |Questão 1| Suzane Duarte | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/) | Knapsack | Difícil |
 |Questão 2| Suzane Duarte | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | Sequence Alignment  | Difícil |
-|Questão 3| Luana Torres | https://leetcode.com/problems/ones-and-zeroes/ | Ones and Zeroesy | Médio |
-|Questão 4| Luana Torres |https://leetcode.com/problems/maximum-profit-in-job-scheduling/ | Maximum Profit in Job Scheduling | Díficil |
+|Questão 3| Luana Torres | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | Knapsack | Médio |
+|Questão 4| Luana Torres |[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Weighted Interval Scheduling | Díficil |
 
 
 ## **Objetivos do Projeto**
@@ -66,19 +66,19 @@ Resolução da Questão 2:
 
 Descrição da Questão 3:
 
-![Questão 3]() 
+![Questão 3](assets\474Problem.PNG) 
 
 Resolução da Questão 3: 
 
-![Questão 3]() 
+![Questão 3](assets\474Resolution.PNG) 
 
 Descrição da Questão 4:
 
-![Questão 4]() 
+![Questão 4](assets\1235Problem.PNG) 
 
 Resolução da Questão 4: 
 
-![Questão 4]() 
+![Questão 4](assets\1235Resolution.PNG) 
 
 ## **Instalação**
 
