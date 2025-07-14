@@ -15,7 +15,7 @@ Questões Programação Dinâmica - LeetCode
 
 No link abaixo é possível ver o vídeo de apresentação do projeto com mais detalhes:
 
-[Link para apresentação](...)
+[Link para apresentação](https://youtu.be/aC_LZy3iXOA?si=1hKtIHPju183VfyN)
 
 ## **Sobre**
 
