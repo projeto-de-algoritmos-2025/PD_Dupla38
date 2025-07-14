@@ -66,19 +66,19 @@ Resolução da Questão 2:
 
 Descrição da Questão 3:
 
-![](assets\474Problem.PNG) 
+![](assets\474Problem.png) 
 
 Resolução da Questão 3: 
 
-![](assets\474Resolution.PNG) 
+![](assets\474Resolution.png) 
 
 Descrição da Questão 4:
 
-![](assets\1235Problem.PNG) 
+![](assets\1235Problem.png) 
 
 Resolução da Questão 4: 
 
-![](assets\1235Resolution.PNG) 
+![](assets\1235Resolution.png) 
 
 ## **Instalação**
 
